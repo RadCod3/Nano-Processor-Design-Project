@@ -37,7 +37,8 @@ Both the 4-bit and 8-bit versions of the nano processor feature a versatile inst
 ---
 
 **Key Diagrams:**
-![LUT Count Before and After Optimization](link-to-diagram-image)
+
+![LUT Count Before and After Optimization](https://github.com/akw2000/Nano_processor_4bit/blob/main/screenshots/LUT_comparison.png)
 
 
 **Collaborators:**
