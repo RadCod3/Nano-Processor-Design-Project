@@ -1,10 +1,10 @@
-**4-Bit Optimized Nano Processor**
+<h1 align="center">4-Bit Optimized Nano Processor</h1>
 
-**Overview:**
+## 🚀 Overview
 
 Our project involved the design and optimization of a 4-bit Nano Processor. The development process spanned three stages, with each step focusing on enhancing performance and resource utilization. Key accomplishments included extending instruction support, improving the adder/subtractor unit, and optimizing various components.
 
-**Key Stages:**
+## 🛠️ Key Stages
 
 1. **1st Stage**: We constructed a basic nano processor. Components were developed separately and an assembly program was written to perform simple tasks.
 
@@ -15,7 +15,7 @@ Certainly! Below is a description of a **w-bit Nano Processor** that supports va
 
 ---
 
-**Instruction Set:**
+## 📜 Instruction Set
 
 Both the 4-bit and 8-bit versions of the nano processor feature a versatile instruction set designed to perform a range of operations efficiently. Here are the supported instructions:
 
@@ -36,12 +36,12 @@ Both the 4-bit and 8-bit versions of the nano processor feature a versatile inst
 
 ---
 
-**Key Diagrams:**
+## 📊 Key Diagrams
 
 ![LUT Count Before and After Optimization](https://github.com/akw2000/Nano_processor_4bit/blob/main/screenshots/LUT_comparison.png)
 
 
-**Collaborators:**
+## 🤝 Collaborators
 
 - **Joel Sathiyendra**
 - **Inuka Ampavila**
